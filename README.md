@@ -1,6 +1,7 @@
 # Portfolio
 
 A new Flutter project.
+<img align="center" src="screen.png"/>
 
 ## Getting Started
 
